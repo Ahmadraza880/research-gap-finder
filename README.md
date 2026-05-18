@@ -484,8 +484,8 @@ MIT License - feel free to use this for personal and commercial projects.
 ## 📧 Contact & Support
 
 - **Issues** - GitHub Issues
-- **Email** - your-email@example.com
-- **Documentation** - [Full docs](https://github.com/yourusername/research-gap-finder/wiki)
+- **Email** - ranaahmadraza7863@gmail.com
+- **Documentation** - [Full docs](https://github.com/Ahmadraza880/research-gap-finder)
 
 ---
 
